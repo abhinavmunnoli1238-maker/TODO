@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow — Smart Todo List",
+  "description": "A modern, responsive full-stack Smart Todo List CRUD application with task priorities, categories, due date tracking, overdue alerts, analytics dashboard, and persistent SQL storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
